@@ -30,15 +30,21 @@ ul {
       max-width: 1000px;
   }
 
-  .move {
+  .description {
+    font-family: cursive;
     text-align: center;
     font-weight: bold;
-    font-style: normal;
     font-size: larger;
-}
+    
+  }
 
-.title {
+  .title {
   text-align: center;
   font-weight: bold;
   font-style: normal;
-}
+  }
+
+  .footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(163, 163, 163);
+  }
